@@ -52,11 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // CA Copy Functionality
 function copyCA() {
-    const caText = `Combat Achievement: Max Cash Stack Master
-Achievement: Achieve the legendary 2,147,483,647 GP milestone
-Player: .................217mbonk
-
-2147M - The Ultimate RuneScape Achievement!`;
+    const caText = `.................217mbonk`;
 
     // Try to use the modern clipboard API
     if (navigator.clipboard && window.isSecureContext) {
