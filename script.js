@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // CA Copy Functionality
 function copyCA() {
-    const caText = `.................217mbonk`;
+    const caText = `Df7ZQDmaaPpYaHMcyBiTkfxRvWHhvqn4apRHBce4bonk`;
 
     // Try to use the modern clipboard API
     if (navigator.clipboard && window.isSecureContext) {
