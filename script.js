@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
 function copyCA() {
     const caText = `Combat Achievement: Max Cash Stack Master
 Achievement: Achieve the legendary 2,147,483,647 GP milestone
-Reward: Eternal Bragging Rights
+Player: .................217mbonk
 
 2147M - The Ultimate RuneScape Achievement!`;
 
